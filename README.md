@@ -9,7 +9,7 @@
 Use the below single-line Unix bash command to quickly install this script into your Illustrator `Scripts` folder.
 
 ```bash
-bash <(curl -sL https://git.io/...)
+bash <(curl -sL https://git.io/vonRM)
 ```
 
 Alternatively, you can dowload [`Gradient Nudge.jsx`](Gradient Nudge.jsx) into your Illustrator `Scripts` folder, located in the `/lllustrator CC/Presets` folder in your `lllustrator CC` installation directory.
